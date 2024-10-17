@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "function/*.py": {
+      "runtime": "vercel-python"
+    }
+  }
+}
